@@ -1,7 +1,7 @@
-# Inspection Management
+# Hotel Inspection
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 <br />
-Building simple app [Inspection Management]() for hotel part-time workers and employees.
+I hope this simple app [Inspectors]() will be some of help to part-time workers and employees engaged in hotel inspection.
 
 
 ## Backend
@@ -29,7 +29,7 @@ Building simple app [Inspection Management]() for hotel part-time workers and em
 - Register and login Google user : [GET]  /auth/google
 - Logout Google user             : [POST] /auth/logout
 
-### Inspection Management
+### Inspectors
 - Without Token
     - Register new user : [POST] /api/users
     - Login user        : [POST] /api/users/login
